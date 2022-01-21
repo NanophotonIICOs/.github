@@ -92,8 +92,11 @@ The repos are it developed and maintained by:
      <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/10236471?v=4"> 
         <br> 
         <a href="https://github.com/RUCO13" target="_top">O. Ruiz-Cigarrillo <a>
-        <a href="https://twitter.com/RUCO0713"><img border="0" src="https://img.shields.io/twitter/follow/RUCO0713?color=blue&logo=twitter&style=flat"/></a>
+        <a href="https://twitter.com/RUCO0713"><img border="0" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
         </br>
     </td>
 </tr>
 </table>
+
+<a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
+<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
