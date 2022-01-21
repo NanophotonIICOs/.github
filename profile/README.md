@@ -79,7 +79,7 @@ The repos are it developed and maintained by:
         <figcaption>D. Herrera-Serna</figcaption>
         </figure>
         <br> 
-        <a href="https://github.com/David-HERS"><img alt="GitHub followers" src="https://img.shields.io/github/followers/David-HERS?label=D. Herrera-Serna%20&style=social"> </a>
+        <a href="https://github.com/David-HERS"><img alt="GitHub followers" src="https://img.shields.io/github/followers/David-HERS?label=D.%20Herrera-Serna&style=social"> </a>
         </br>
     </td>
     <td></td>
