@@ -8,7 +8,7 @@ This organization correspond to [Dr. L.F. Lastras-Martinez](http://www.iico.uasl
 * Ellipsometry laboratory
     + Spectroscopy Elipsometry (`SE`) both high vacuum and room ambient. 
     + Reflectance Anisotropy Spectroscopy (`RAS`) both high vacuum and room ambient. 
-    + Photoreflectance and Photoreflectance Differentiate Spectroscopy (`PR`, `PRD`) both high vacuum and room ambient. 
+    + Photoreflectance and Photoreflectance Differentiate Spectroscopy (`PR`, `PRD`) both high vacuum and room ambient.
 
 * Spectroscopy laboaratory
     + Nano Spectroscopy
@@ -76,7 +76,7 @@ The repos are it developed and maintained by:
     <td>
         <figure>
         <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93018124?v=4"> 
-        <figcaption>D. </figcaption>
+        <figcaption>D. Herrera-Serna</figcaption>
         </figure>
         <br> 
         <a href="https://github.com/David-HERS"><img alt="GitHub followers" src="https://img.shields.io/github/followers/David-HERS?label=D.%20&style=social"> </a>
@@ -149,7 +149,6 @@ The repos are it developed and maintained by:
     </td>
 </tr>
 </table>
-
 
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
