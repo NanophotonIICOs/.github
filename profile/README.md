@@ -1,5 +1,5 @@
-<img align="left" src="UASLP.png">
-<img align="right" src="Escudo.png">
+<img align="left" src="http://www.iico.uaslp.mx/_catalogs/masterpage/UASLP/imagenes/UASLP.png">
+<img align="right" src="http://www.iico.uaslp.mx/_catalogs/masterpage/UASLP/imagenes/Escudo.png">
 </br></br></br></br></br>
 
 # LFLM RESEARCH GROUP
