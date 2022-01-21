@@ -14,11 +14,11 @@ This organization correspond to [Dr. L.F. Lastras-Martinez](http://www.iico.uasl
     + Nano Spectroscopy
         * Near-Field Scanning Microscope (`NSOM`)
         * Nano Reflectance Anisotropy Spectroscopy.
-    + Crogenic System 1
+    + Cryogenic System 1
         * Macro and Micro Reflectance Anisotropy Spectroscopy 
-        (<code>&mu;RAS</code>,`RAS`)both room and cryogenic temperature at ≈ 30K
+        (<code>&mu;RAS</code>,`RAS`) both room and cryogenic temperature at ≈ 30K
         *  Macro and Micro Photo Reflectance Anisotropy Spectroscopy both room and cryogenic temperature at ≈ 30K
-    + Crogenic System 2
+    + Cryogenic System 2
         * Photoluminescence Spectroscopy (`PL`) both real and reciprocal space resolved at ≈ 20K
 
 The repos are it developed and maintained by:
@@ -26,16 +26,31 @@ The repos are it developed and maintained by:
 <table>
 <tr>
   <td>
-  <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/58153919?v=4"> <br> 
-  <a href="https://github.com/gabflrs" target="_top">G. Flores-Rangel</a>
-  </br>
-  </td>
-  <td> <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93688253?v=4"><br>
-  <a href="https://github.com/cutberto-balderas" target="_top">
-  C. Balderas</td>
-  <td><img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93691882?v=4"> <br> <a href="https://github.com/AlejandroRiosLozano" target="_top">A. Rios-Lozano</td>
-  <td> <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93691841?v=4"><br> 
-  <a href="https://github.com/AlbertoOlea" target="_top">A. Aguilar-Olea</td>
+        <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/58153919?v=4"> 
+        <br>
+        <br> 
+        <a href="https://github.com/gabflrs"><img alt="GitHub followers" src="https://img.shields.io/github/followers/gabflrs?label=G.%20Flores-Rangel&style=social"></a>
+        </br>
+        </br>
+    </td>
+    <td> 
+        <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93688253?v=4">
+        <br><br>
+        <a href="https://github.com/cutberto-balderas"><img alt="GitHub followers" src="https://img.shields.io/github/followers/cutberto-balderas?label=C.%20Balderas&style=social"></a>
+        </br></br>
+    </td>
+    <td>
+        <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93691882?v=4"> 
+        <br> <br>
+        <a href="https://github.com/AlejandroRiosLozano"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AlejandroRiosLozano?label=A.%20Rios-Lozano&style=social"></a>
+        </br></br>
+    </td>
+    <td> 
+        <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93691841?v=4">
+            <br> <br> 
+            <a href="https://github.com/AlbertoOlea"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AlbertoOlea?label=A.%20Olea&style=social"></a>
+            </br></br>
+    </td>
     <td></td>
     <td></td>
 </tr>
@@ -43,13 +58,17 @@ The repos are it developed and maintained by:
     <td>
     <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/68243899?v=4"> 
         <br> 
-        <a href="https://github.com/CarlosBravel" target="_top">C.A. Bravo-Velazquez</a>
+        <br>
+        <a href="https://github.com/CarlosBravel"><img alt="GitHub followers" src="https://img.shields.io/github/followers/CarlosBravel?label=C.A.%20Bravo-Velazquez.%20&style=social"></a>
+        </br>
         </br>
     </td>
     <td>
     <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93018124?v=4"> 
         <br> 
-        <a href="https://github.com/David-HERS" target="_top">D. </a>
+        <br> 
+        <a href="https://github.com/David-HERS"><img alt="GitHub followers" src="https://img.shields.io/github/followers/David-HERS?label=D.%20&style=social"> </a>
+        </br>
         </br>
     </td>
     <td></td>
@@ -61,42 +80,57 @@ The repos are it developed and maintained by:
     <td>
     <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/59182337?v=4"> 
         <br> 
-        <a href="https://github.com/Gabmtzz" target="_top">G.A. Martinez-Zepeda</a>
+        <a href="https://github.com/Gabmtzz"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Gabmtzz?label=G.A.%20Martinez-Zepeda&style=social"></a>
         </br>
     </td>
     <td>
     <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93692709?v=4"> 
         <br> 
-        <a href="https://github.com/David-HERS" target="_top">K. Alferez </a>
+        <br> 
+        <a href="https://github.com/KarlaAlf"><img alt="GitHub followers" src="https://img.shields.io/github/followers/KarlaAlf?label=K.%20Alferez&style=social"></a>
+        </br>
         </br>
     </td>
     <td>
     <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93691618?v=4"> 
         <br> 
-        <a href="https://github.com/Mariarangel6" target="_top">M. Rangel </a>
+        <br> 
+        <a href="https://github.com/Mariarangel6"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Mariarangel6?label=M.%20Rangel&style=social"> </a>
+        <a href="https://twitter.com/kalyrangel6"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kalyrangel6?style=social">
+        </br>
         </br>
     </td>
     <td>
      <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93017446?v=4"> 
         <br> 
-        <a href="https://github.com/PaolaYurem" target="_top">P. Yurem </a>
+        <br> 
+        <a href="https://github.com/PaolaYurem"><img alt="GitHub followers" src="https://img.shields.io/github/followers/PaolaYurem?label=P.%20Yurem&style=social"></a>
+         <a href="https://twitter.com/PaolaYurem"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PaolaYurem?style=social">
+        </br>
         </br>
     </td>
     <td>
      <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/76220625?v=4"> 
         <br> 
-        <a href="https://github.com/AlbertoSegura24" target="_top">A. Segura </a>
+        <br>
+        <a href="https://github.com/AlbertoSegura24"><img alt="GitHub followers" src="https://img.shields.io/github/followers/albertoSegura24?label=A.%20Segura&style=social"> </a>
+        <a href="https://twitter.com/AlbertoSegurad5"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoSegurad5?style=social">
+        </br>
         </br>
     </td>
     <td>
-     <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/10236471?v=4"> 
+        <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/10236471?v=4"> 
         <br> 
-        <a href="https://github.com/RUCO13" target="_top">O. Ruiz-Cigarrillo <a>
-        <a href="https://twitter.com/RUCO0713"><img border="0" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+        <br>
+        <a href="https://github.com/RUCO13"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ruco13?color=blue&label=O.%20Ruiz-Cigarrillo&logo=github&style=social"></a>
+        <a href="https://twitter.com/RUCO0713"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ruco0713?style=social"></a>
+        </br>
         </br>
     </td>
 </tr>
 </table>
 
+
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
+
