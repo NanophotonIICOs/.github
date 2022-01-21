@@ -36,7 +36,7 @@ The repos are it developed and maintained by:
     <td> 
         <figure>
         <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93688253?v=4">
-        <figcaption>C. Balderas</figcaption>
+        <figcaption>C. Balderas-Noyola</figcaption>
         </figure>
         <br>
         <a href="https://github.com/cutberto-balderas"><img alt="GitHub followers" src="https://img.shields.io/github/followers/cutberto-balderas?label=C.%20Balderas&style=social"></a>
