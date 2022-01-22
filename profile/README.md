@@ -21,12 +21,7 @@ This organization corresponds to [Dr. L.F. Lastras-Martinez](http://www.iico.uas
     + Cryogenic System 2
         * Photoluminescence Spectroscopy (`PL`) both real and reciprocal space resolved at ≈ 20K
 
-<<<<<<< HEAD
-The repos are it developed and maintained by:
-=======
 The repos are developed and maintained by:
-
->>>>>>> f57a8a1796b8efacce7152c5bd19752d68f5406f
 <table>
 <tr>
   <td>  <figure>
