@@ -22,7 +22,6 @@ This organization correspond to [Dr. L.F. Lastras-Martinez](http://www.iico.uasl
         * Photoluminescence Spectroscopy (`PL`) both real and reciprocal space resolved at ≈ 20K
 
 The repos are it developed and maintained by:
-
 <table>
 <tr>
   <td>  <figure>
@@ -31,6 +30,7 @@ The repos are it developed and maintained by:
         </figure>
         <br>
         <a href="https://github.com/gabflrs"><img alt="GitHub followers" src="https://img.shields.io/github/followers/gabflrs?label=G.%20Flores-Rangel&style=social"></a>
+        <a href="https://twitter.com/gabflrs"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gabflrs?style=social"></a>
         </br>
     </td>
     <td> 
@@ -58,6 +58,9 @@ The repos are it developed and maintained by:
         </figure>
             <br>
             <a href="https://github.com/AlbertoOlea"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AlbertoOlea?label=A.%20Olea&style=social"></a>
+            <a href="https://twitter.com/BetOleAguilar
+"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BetOleAguilar
+?style=social"></a>
             </br>
     </td>
     <td></td>
@@ -95,6 +98,7 @@ The repos are it developed and maintained by:
     </figure>
         <br> 
         <a href="https://github.com/Gabmtzz"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Gabmtzz?label=G.A.%20Martinez-Zepeda&style=social"></a>
+        <a href="https://twitter.com/GabMtzZ"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GabMtzZ?style=social"></a>
         </br>
     </td>
     <td>
