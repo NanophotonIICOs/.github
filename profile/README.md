@@ -58,9 +58,7 @@ The repos are developed and maintained by:
         </figure>
             <br>
             <a href="https://github.com/AlbertoOlea"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AlbertoOlea?label=A.%20Olea&style=social"></a>
-            <a href="https://twitter.com/BetOleAguilar
-"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BetOleAguilar
-?style=social"></a>
+            <a href="https://twitter.com/BetOleAguilar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BetOleAguilar?style=social"></a>
             </br>
     </td>
     <td></td>
