@@ -25,7 +25,7 @@ The repos are developed and maintained by:
 <table>
 <tr>
   <td>  <figure>
-        <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/58153919?v=4" title="G. Flores-Rangel"> 
+        <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/58153919?v=4" title="G. Flores-Rangel"> <br>
         <figcaption>G. Flores-Rangel</figcaption>
         </figure>
         <br>
@@ -35,7 +35,7 @@ The repos are developed and maintained by:
     </td>
     <td> 
         <figure>
-        <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93688253?v=4">
+        <img align =center width=150 heigh=150  src="https://avatars.githubusercontent.com/u/93688253?v=4"><br>
         <figcaption>C. Balderas-Noyola</figcaption>
         </figure>
         <br>
@@ -44,7 +44,7 @@ The repos are developed and maintained by:
     </td>
     <td>
         <figure>
-        <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93691882?v=4"> 
+        <img align =center width=150 heigh=150  src="https://avatars.githubusercontent.com/u/93691882?v=4"> <br>
         <figcaption>A. Rios-Lozano</figcaption>
         </figure>
         <br> 
@@ -53,7 +53,7 @@ The repos are developed and maintained by:
     </td>
     <td> 
         <figure>
-        <img align =center width=100 heigh=100  src="https://avatars.githubusercontent.com/u/93691841?v=4">
+        <img align =center width=150 heigh=150  src="https://avatars.githubusercontent.com/u/93691841?v=4"><br>
         <figcaption>A. Olea-Aguilar</figcaption>
         </figure>
             <br>
@@ -67,7 +67,7 @@ The repos are developed and maintained by:
 <tr>
     <td>
         <figure>
-        <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/68243899?v=4"> 
+        <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/68243899?v=4"> <br>
         <figcaption>C.A. Bravo-Velazquez</figcaption>
         </figure>
         <br>
@@ -76,7 +76,7 @@ The repos are developed and maintained by:
     </td>
     <td>
         <figure>
-        <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93018124?v=4"> 
+        <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/93018124?v=4"> <br>
         <figcaption>D. Herrera-Serna</figcaption>
         </figure>
         <br> 
@@ -91,7 +91,7 @@ The repos are developed and maintained by:
 <tr>
     <td>
     <figure>
-    <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/59182337?v=4"> 
+    <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/59182337?v=4"> <br>
     <figcaption>G.A. Martinez-Zepeda</figcaption>
     </figure>
         <br> 
@@ -101,7 +101,7 @@ The repos are developed and maintained by:
     </td>
     <td>
     <figure>
-    <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93692709?v=4"> 
+    <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/93692709?v=4"> <br>
     <figcaption>K.P. Leija-Alferez</figcaption>
     </figure>
         <br> 
@@ -110,7 +110,7 @@ The repos are developed and maintained by:
     </td>
     <td>
     <figure>
-    <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93691618?v=4"> 
+    <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/93691618?v=4"> <br>
     <figcaption>M.C Rangel-Monreal</figcaption>
     </figure>
         <br> 
@@ -120,7 +120,7 @@ The repos are developed and maintained by:
     </td>
     <td>
     <figure>
-     <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/93017446?v=4"> 
+     <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/93017446?v=4"> <br>
      <figcaption>P.Y. Perez-Gomez</figcaption>
     </figure>
         <br> 
@@ -130,7 +130,7 @@ The repos are developed and maintained by:
     </td>
     <td>
     <figure>
-     <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/76220625?v=4"> 
+     <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/76220625?v=4"> <br>
      <figcaption>G.A. Segura-de-la-Vega </figcaption>
      </figure>
         <br> 
@@ -140,7 +140,7 @@ The repos are developed and maintained by:
     </td>
     <td>
     <figure>
-        <img align=center width=100 heigh=100 src="https://avatars.githubusercontent.com/u/10236471?v=4"> 
+        <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/10236471?v=4"> <br>
         <figcaption>O. Ruiz-Cigarrillo</figcaption>
     </figure>
         <br>
