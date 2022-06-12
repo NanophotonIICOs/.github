@@ -61,8 +61,6 @@ The repos are developed and maintained by:
             <a href="https://twitter.com/BetOleAguilar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BetOleAguilar?style=social"></a>
             </br>
     </td>
-    <td></td>
-    <td></td>
 </tr>
 <tr>
     <td>
@@ -83,10 +81,6 @@ The repos are developed and maintained by:
         <a href="https://github.com/David-HERS"><img alt="GitHub followers" src="https://img.shields.io/github/followers/David-HERS?label=D.%20Herrera-Serna&style=social"> </a>
         </br>
     </td>
-    <td></td>
-    <td></td>
-     <td></td>
-    <td></td>
 </tr>
 <tr>
     <td>
@@ -116,8 +110,6 @@ The repos are developed and maintained by:
         <br>
         <a href="https://github.com/RUCO13"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ruco13?color=blue&label=O.%20Ruiz-Cigarrillo&logo=github&style=social"></a>
         <a href="https://twitter.com/RUCO0713"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ruco0713?style=social"></a>
-        </br>
-        </br>
     </td>
 </tr>
 </table>
