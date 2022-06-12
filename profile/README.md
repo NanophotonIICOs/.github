@@ -110,36 +110,6 @@ The repos are developed and maintained by:
     </td>
     <td>
     <figure>
-    <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/93691618?v=4"> <br>
-    <figcaption>M.C Rangel-Monreal</figcaption>
-    </figure>
-        <br> 
-        <a href="https://github.com/Mariarangel6"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Mariarangel6?label=M.%20Rangel&style=social"> </a>
-        <a href="https://twitter.com/kalyrangel6"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kalyrangel6?style=social">
-        </br>
-    </td>
-    <td>
-    <figure>
-     <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/93017446?v=4"> <br>
-     <figcaption>P.Y. Perez-Gomez</figcaption>
-    </figure>
-        <br> 
-        <a href="https://github.com/PaolaYurem"><img alt="GitHub followers" src="https://img.shields.io/github/followers/PaolaYurem?label=P.%20Yurem&style=social"></a>
-         <a href="https://twitter.com/PaolaYurem"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/PaolaYurem?style=social">
-        </br>
-    </td>
-    <td>
-    <figure>
-     <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/76220625?v=4"> <br>
-     <figcaption>G.A. Segura-de-la-Vega </figcaption>
-     </figure>
-        <br> 
-        <a href="https://github.com/AlbertoSegura24"><img alt="GitHub followers" src="https://img.shields.io/github/followers/albertoSegura24?label=A.%20Segura&style=social"> </a>
-        <a href="https://twitter.com/AlbertoSegurad5"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AlbertoSegurad5?style=social">
-        </br>
-    </td>
-    <td>
-    <figure>
         <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/10236471?v=4"> <br>
         <figcaption>O. Ruiz-Cigarrillo</figcaption>
     </figure>
@@ -151,6 +121,7 @@ The repos are developed and maintained by:
     </td>
 </tr>
 </table>
+
 
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
