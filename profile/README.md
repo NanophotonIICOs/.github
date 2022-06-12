@@ -3,7 +3,7 @@
 </br></br></br></br></br>
 
 # LFLM RESEARCH GROUP
-This organization corresponds to [Dr. L.F. Lastras-Martinez](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx). Here its shared and developed codes employed in the research of the group. These are dived into two principal laboratories:
+This organization corresponds to [Dr. L.F. Lastras-Martinez](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx). Here are the shared and developed codes employed in the research of the group. These are divided into two principal laboratories:
 
 * Ellipsometry laboratory
     + Spectroscopy Elipsometry (`SE`) both high vacuum and room ambient. 
