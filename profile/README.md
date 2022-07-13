@@ -4,8 +4,8 @@
 
  -->
 
-# LFLM RESEARCH GROUP
-This organization corresponds to [Dr. L.F. Lastras-Martinez](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx). Here are the shared and developed codes employed in the research of the group. These are divided into two principal laboratories:
+# NANOPHOTONICS RESEARCH GROUP
+This organization corresponds to   [Dr. R.E. Balderas-Navarro](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx) and  [Dr. L.F. Lastras-Martinez](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx). Here are the shared and developed codes employed in the research of the group. These are divided into two principal laboratories:
 
 * Ellipsometry laboratory
     + Spectroscopy Elipsometry (`SE`) both high vacuum and room ambient. 
