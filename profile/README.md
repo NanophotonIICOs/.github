@@ -1,29 +1,13 @@
-<!-- <img align="left" src="">
-<img align="right" src="">
+<img align="left" src="UASLP.png">
+<img align="right" src="Escudo.png ">
 <br><br><br><br><br><br>
 
- -->
+
 
 # NANOPHOTONICS RESEARCH GROUP
-This organization corresponds to   [Dr. R.E. Balderas-Navarro](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx) and  [Dr. L.F. Lastras-Martinez](http://www.iico.uaslp.mx/Paginas/Luis-Felipe.aspx). Here are the shared and developed codes employed in the research of the group. These are divided into two principal laboratories:
+This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0) and [Dr. L.F. Lastras-Martinez](https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0). The research area of our group is related to study optical properties of semiconductor structures (nanostructured) trough experimental spectroscopy such as: Reflectance Anisotropy Spectroscopy (`RAS`), Photoreflectance (`PR`), Ellipsometry (`SE`) and Photoluminiscence (`PL`). Also, our objective is developed open source codes which allow getting high quality experimental result analysis and employs, developed and contribute to electron band structure calculations.  
 
-* Ellipsometry laboratory
-    + Spectroscopy Elipsometry (`SE`) both high vacuum and room ambient. 
-    + Reflectance Anisotropy Spectroscopy (`RAS`) both high vacuum and room ambient. 
-    + Photoreflectance and Photoreflectance Differentiate Spectroscopy (`PR`, `PRD`) both high vacuum and room ambient.
-
-* Spectroscopy laboaratory
-    + Nano Spectroscopy
-        * Near-Field Scanning Microscope (`NSOM`)
-        * Nano Reflectance Anisotropy Spectroscopy.
-    + Cryogenic System 1
-        * Macro and Micro Reflectance Anisotropy Spectroscopy 
-        (<code>&mu;RAS</code>,`RAS`) both room and cryogenic temperature at ≈ 30K
-        *  Macro and Micro Photo Reflectance Anisotropy Spectroscopy both room and cryogenic temperature at ≈ 30K
-    + Cryogenic System 2
-        * Photoluminescence Spectroscopy (`PL`) both real and reciprocal space resolved at ≈ 20K
-
-The repos are developed and maintained by:
+The repos are developed and maintained by students and contributors to Dr. Raul and Dr. Luis Felipe. 
 <table>
 <tr>
   <td>  <figure>
