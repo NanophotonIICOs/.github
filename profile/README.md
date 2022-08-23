@@ -42,7 +42,7 @@ This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.ua
 </td>
 </tr>
 <tr>
-<td>IDE/ditors</td>
+<td>IDE/Editors</td>
 <td><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 </td>
