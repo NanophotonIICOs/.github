@@ -1,5 +1,5 @@
-<img align="left" src="./images/uaslp-1.png">
-<img align="right" src="./images/Escudo.png">
+<img align="left" src="https://github.com/NanophotonIICOs/.github/blob/main/profile/images/Escudo.png">
+<img align="right" src="https://github.com/NanophotonIICOs/.github/blob/main/profile/images/uaslp-1.png">
 <br><br><br><br><br><br>
 
 
