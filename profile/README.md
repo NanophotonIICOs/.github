@@ -1,5 +1,5 @@
 <img align="left" src="https://pbs.twimg.com/profile_images/1559002096505987073/lQIYgjlr_400x400.jpg" width="120" height="120" >
-<img align="right" src="http://www.fc.uaslp.mx/pca/images/iico.png width="200" height="200"">
+<img align="right" src="http://www.fc.uaslp.mx/pca/images/iico.png">
 <br><br><br><br><br><br>
 
 # NANOPHOTONICS RESEARCH GROUP
