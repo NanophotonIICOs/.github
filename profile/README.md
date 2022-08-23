@@ -1,4 +1,4 @@
-<img align="left" src="images/uaslp-1.png">
+<img align="left" src="./images/uaslp-1.png">
 <img align="right" src="http://www.fc.uaslp.mx/pca/images/iico.png">
 <br><br><br><br><br><br>
 
