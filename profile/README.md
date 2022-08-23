@@ -7,7 +7,55 @@
 # NANOPHOTONICS RESEARCH GROUP
 This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0) and [Dr. L.F. Lastras-Martinez](https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0). The research area of our group is related to study optical properties of semiconductor structures (nanostructured) trough experimental spectroscopy such as: Reflectance Anisotropy Spectroscopy (`RAS`), Photoreflectance (`PR`), Ellipsometry (`SE`) and Photoluminiscence (`PL`). Also, our objective is developed open source codes which allow getting high quality experimental result analysis and employs, developed and contribute to electron band structure calculations.  
 
-The repos are developed and maintained by students and contributors to Dr. Raul and Dr. Luis Felipe. 
+<table>
+<tr>
+<td>OS</td>
+<td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+</td>
+<tr>
+
+<tr>
+<td>Programming</td>
+<td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> 
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> 
+<img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"> 
+<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"> 
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> 
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> 
+
+</td>
+</tr>
+<tr>
+<td>ML/DL</td>
+<td><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> 
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> 
+<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"> 
+
+</td>
+</tr>
+<tr>
+<td>Frameworks</td>
+<td><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> 
+</td>
+</tr>
+<tr>
+<td>IDE/ditors</td>
+<td><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+</td>
+</tr>
+<tr>
+<td>Version Control</td>
+<td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+ </td>
+</tr>
+</table>
+
+### The repos are developed and maintained by students and contributors to Dr. Raul and Dr. Luis Felipe. 
 <table>
 <tr>
   <td>  <figure>
@@ -100,7 +148,3 @@ The repos are developed and maintained by students and contributors to Dr. Raul 
 </tr>
 </table>
 
-
-<a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </a>
-<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
-<a><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> </a>
