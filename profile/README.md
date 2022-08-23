@@ -1,5 +1,5 @@
-<img align="left" src="images/uaslp-1.png">
-<img align="right" src="images/Escudo.png">
+<img align="left" src="./images/uaslp-1.png">
+<img align="right" src="./images/Escudo.png">
 <br><br><br><br><br><br>
 
 
