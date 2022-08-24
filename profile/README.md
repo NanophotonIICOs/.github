@@ -138,7 +138,7 @@ This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.ua
     </td>
     <td>
     <figure>
-        <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/10236471?v=4"> <br>
+        <a href="https://github.com/RUCO13"><img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/10236471?v=4"> <br>
         <figcaption>O. Ruiz-Cigarrillo</figcaption>
     </figure>
         <br>
