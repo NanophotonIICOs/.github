@@ -138,6 +138,15 @@ This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.ua
     </td>
     <td>
     <figure>
+        <a href="https://github.com/aismtz"><img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/113135484?v=4"> <br>
+        <figcaption>A.M. Martinez-Martinez</figcaption>
+    </figure>
+        <br>
+        <a href="https://github.com/aismtz"><img alt="GitHub followers" src="https://img.shields.io/github/followers/aismtz?color=blue&label=A.M.%20Martinez-Martinez&logo=github&style=social"></a>
+        </a>
+    </td>
+     <td>
+    <figure>
         <a href="https://github.com/RUCO13"><img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/10236471?v=4"> <br>
         <figcaption>O. Ruiz-Cigarrillo</figcaption>
     </figure>
