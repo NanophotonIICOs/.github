@@ -55,7 +55,7 @@ This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.ua
 </table>
 
 ### The repos are developed and maintained by students and contributors to Dr. Raul and Dr. Luis Felipe. 
-<table>
+<!-- <table>
 <tr>
   <td>  <figure>
         <img width=150 heigh=150 src="https://avatars.githubusercontent.com/u/58153919?v=4" title="G. Flores-Rangel"> <br>
@@ -154,5 +154,5 @@ This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.ua
         <a href="https://twitter.com/RUCO0713"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ruco0713?style=social"></a>
     </td>
 </tr>
-</table>
+</table> -->
 
