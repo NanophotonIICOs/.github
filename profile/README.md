@@ -4,8 +4,10 @@
 
 
 
-# NANOPHOTONICS RESEARCH GROUP
-This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0) and [Dr. L.F. Lastras-Martinez](https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0). The research area of our group is related to study optical properties of semiconductor structures (nanostructured) trough experimental spectroscopy such as: Reflectance Anisotropy Spectroscopy (`RAS`), Photoreflectance (`PR`), Ellipsometry (`SE`) and Photoluminiscence (`PL`). Also, our objective is developed open source codes which allow getting high quality experimental result analysis and employs, developed and contribute to electron band structure calculations.  
+<h1>NANOPHOTONICS AND OPTOELECTRONICS MATERIALS RESEARCH GROUPS</h1>
+<p>This organization comprises two research groups. The NANOPHOTONICS group is led by <a href="https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0">Dr. R.E. Balderas-Navarro</a> and <a href="https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0">Dr. L.F. Lastras-Martinez</a>, and focuses on studying the optical properties of nanostructured semiconductor structures using experimental spectroscopy techniques such as Reflectance Anisotropy Spectroscopy (RAS), Photoreflectance (PR), Ellipsometry (SE), and Photoluminescence (PL).</p>
+<p>The OPTOELECTRONICS MATERIALS group is led by <a href="https://investigadores.uaslp.mx/InvestigadorProfile/zRIAAA%3D%3D">Prof. Dr. A. Latras-Martinez</a> and <a href="https://scholar.google.es/citations?user=BDxMfXYAAAAJ&hl=es&oi=ao">Dra. L.E. Guevara-Macias</a>, and also focuses on studying the optical properties of semiconductor materials, with a particular emphasis on optoelectronic applications.</p>
+<p>Our group aims to develop open source software tools that enable high-quality analysis of experimental results and contribute to the development of electron band structure calculations.</p>
 
 <table>
 <tr>
@@ -54,7 +56,7 @@ This organization corresponds to [Dr. R.E. Balderas-Navarro](https://www.iico.ua
 </tr>
 </table>
 
-### The repos are developed and maintained by students and contributors to Dr. Raul and Dr. Luis Felipe. 
+### The repos are developed and maintained by students and contributors to these groups. 
 <!-- <table>
 <tr>
   <td>  <figure>
