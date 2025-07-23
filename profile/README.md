@@ -4,11 +4,34 @@
 
 
 
-<h1>NANOPHOTONICS AND OPTOELECTRONICS MATERIALS RESEARCH GROUPS</h1>
-<p>This organization comprises two research groups. The NANOPHOTONICS group is led by <a href="https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0">Dr. R.E. Balderas-Navarro</a> and <a href="https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0">Dr. L.F. Lastras-Martinez</a>, and focuses on studying the optical properties of nanostructured semiconductor structures using experimental spectroscopy techniques such as Reflectance Anisotropy Spectroscopy (RAS), Photoreflectance (PR), Ellipsometry (SE), and Photoluminescence (PL).</p>
-<p>The OPTOELECTRONICS MATERIALS group is led by <a href="https://investigadores.uaslp.mx/InvestigadorProfile/zRIAAA%3D%3D">Prof. Dr. A. Latras-Martinez</a> and <a href="https://scholar.google.es/citations?user=BDxMfXYAAAAJ&hl=es&oi=ao">Dra. L.E. Guevara-Macias</a>, and also focuses on studying the optical properties of semiconductor materials, with a particular emphasis on optoelectronic applications.</p>
-<p>Our group aims to develop open source software tools that enable high-quality analysis of experimental results and contribute to the development of electron band structure calculations.</p>
+<h1>NANOPHOTONICS AND OPTOELECTRONICS MATERIALS RESEARCH GROUP</h1>
 
+<p>This research group is led by 
+<a href="https://www.iico.uaslp.mx/Paginas/Cuerpos-Academicos/2663#gsc.tab=0">Dr. Raúl E. Balderas-Navarro</a>, 
+with postdoctoral researcher <a href="https://ruco13.github.io">Dr. Oscar Ruiz Cigarrillo</a> serving as repository administrator and research collaborator.</p>
+
+<p>The group focuses on studying the optical properties of nanostructured semiconductor materials, both experimentally and theoretically, using techniques such as Reflectance Anisotropy Spectroscopy (RAS), Photoreflectance (PR), Ellipsometry (SE), Photoluminescence (PL), Magneto-Optic Kerr Effect (MOKE), and many-body ab initio simulations.</p>
+
+<p>We also aim to develop open-source software tools for high-quality analysis of experimental results and support the advancement of electronic band structure calculations.</p>
+
+<p><strong>Current undergraduate student members:</strong></p>
+<ul>
+  <li>Ana Sofía Solorio Orozco</li>
+  <li>Daniel Alejandro Martínez Lara</li>
+  <li>David Alejandro Zarazúa Martínez</li>
+  <li>Benjamín Adonay Culebro García</li>
+  <li>Óscar Iván Muñoz Pimentel</li>
+  <li>Brandon Aguilera</li>
+</ul>
+
+<p>All of them are actively contributing to research and development within the group.</p>
+
+<!-- Group Photo -->
+<p><strong>Group Photo:</strong></p>
+<img src="./images/group.png" alt="Nanophotonics and Optoelectronics Research Group Photo" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 5px;">
+
+
+<h2>Tools and Technologies</h2>
 <table>
 <tr>
 <td>OS</td>
@@ -17,7 +40,6 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
 </td>
 <tr>
-
 <tr>
 <td>Programming</td>
 <td><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> 
@@ -56,105 +78,18 @@
 </tr>
 </table>
 
-### The repos are developed and maintained by students and contributors to these groups. 
-<!-- <table>
-<tr>
-  <td>  <figure>
-        <img width=150 heigh=150 src="https://avatars.githubusercontent.com/u/58153919?v=4" title="G. Flores-Rangel"> <br>
-        <figcaption>G. Flores-Rangel</figcaption>
-        </figure>
-        <br>
-        <a href="https://github.com/gabflrs"><img alt="GitHub followers" src="https://img.shields.io/github/followers/gabflrs?label=G.%20Flores-Rangel&style=social"></a>
-        <a href="https://twitter.com/gabflrs"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gabflrs?style=social"></a>
-        </br>
-    </td>
-    <td> 
-        <figure>
-        <img  width=150 heigh=150  src="https://avatars.githubusercontent.com/u/93688253?v=4"><br>
-        <figcaption>C. Balderas-Noyola</figcaption>
-        </figure>
-        <br>
-        <a href="https://github.com/cutberto-balderas"><img alt="GitHub followers" src="https://img.shields.io/github/followers/cutberto-balderas?label=C.%20Balderas&style=social"></a>
-        </br>
-    </td>
-    <td>
-        <figure>
-        <img width=150 heigh=150  src="https://avatars.githubusercontent.com/u/93691882?v=4"> <br>
-        <figcaption>A. Rios-Lozano</figcaption>
-        </figure>
-        <br> 
-        <a href="https://github.com/AlejandroRiosLozano"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AlejandroRiosLozano?label=A.%20Rios-Lozano&style=social"></a>
-        </br>
-    </td>
-    <td> 
-        <figure>
-        <img  width=150 heigh=150  src="https://avatars.githubusercontent.com/u/93691841?v=4"><br>
-        <figcaption>A. Olea-Aguilar</figcaption>
-        </figure>
-            <br>
-            <a href="https://github.com/AlbertoOlea"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AlbertoOlea?label=A.%20Olea&style=social"></a>
-            <a href="https://twitter.com/BetOleAguilar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BetOleAguilar?style=social"></a>
-            </br>
-    </td>
-</tr>
-<tr>
-    <td>
-        <figure>
-        <img width=150 heigh=150 src="https://avatars.githubusercontent.com/u/68243899?v=4"> <br>
-        <figcaption>C.A. Bravo-Velazquez</figcaption>
-        </figure>
-        <br>
-        <a href="https://github.com/CarlosBravel"><img alt="GitHub followers" src="https://img.shields.io/github/followers/CarlosBravel?label=C.A.%20Bravo-Velazquez.%20&style=social"></a>
-        </br>
-    </td>
-    <td>
-        <figure>
-        <img  width=150 heigh=150 src="https://avatars.githubusercontent.com/u/93018124?v=4"> <br>
-        <figcaption>D. Herrera-Serna</figcaption>
-        </figure>
-        <br> 
-        <a href="https://github.com/David-HERS"><img alt="GitHub followers" src="https://img.shields.io/github/followers/David-HERS?label=D.%20Herrera-Serna&style=social"> </a>
-        </br>
-    </td>
-</tr>
-<tr>
-    <td>
-    <figure>
-    <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/59182337?v=4"> <br>
-    <figcaption>G.A. Martinez-Zepeda</figcaption>
-    </figure>
-        <br> 
-        <a href="https://github.com/Gabmtzz"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Gabmtzz?label=G.A.%20Martinez-Zepeda&style=social"></a>
-        <a href="https://twitter.com/GabMtzZ"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GabMtzZ?style=social"></a>
-        </br>
-    </td>
-    <td>
-    <figure>
-    <img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/93692709?v=4"> <br>
-    <figcaption>K.P. Leija-Alferez</figcaption>
-    </figure>
-        <br> 
-        <a href="https://github.com/KarlaAlf"><img alt="GitHub followers" src="https://img.shields.io/github/followers/KarlaAlf?label=K.%20Alferez&style=social"></a>
-        </br>
-    </td>
-    <td>
-    <figure>
-        <a href="https://github.com/aismtz"><img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/113135484?v=4"> <br>
-        <figcaption>A.M. Martinez-Martinez</figcaption>
-    </figure>
-        <br>
-        <a href="https://github.com/aismtz"><img alt="GitHub followers" src="https://img.shields.io/github/followers/aismtz?color=blue&label=A.M.%20Martinez-Martinez&logo=github&style=social"></a>
-        </a>
-    </td>
-     <td>
-    <figure>
-        <a href="https://github.com/RUCO13"><img align=center width=150 heigh=150 src="https://avatars.githubusercontent.com/u/10236471?v=4"> <br>
-        <figcaption>O. Ruiz-Cigarrillo</figcaption>
-    </figure>
-        <br>
-        <a href="https://github.com/RUCO13"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ruco13?color=blue&label=O.%20Ruiz-Cigarrillo&logo=github&style=social"></a>
-        <a href="https://twitter.com/RUCO0713"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ruco0713?style=social"></a>
-    </td>
-</tr>
-</table> -->
+<h2>Acknowledgments</h2>
 
+<p>We gratefully acknowledge the support provided by:</p>
+
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://secihti.mx/wp-content/uploads/2024/12/logotipo_SCyT_color_803x97px_v02.svg" alt="SECTIHI Logo" style="height: 80px;">
+    <p><strong>Secretaría de Ciencia, Humanidades, Tecnología e Innovación</strong></p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="http://registro.lnsa.buap.mx/imagenes/LNS.png" alt="LNS Logo" style="height: 80px;">
+    <p><strong>Laboratorio Nacional de Supercómputo del Sureste de México</strong></p>
+  </div>
+</div>
