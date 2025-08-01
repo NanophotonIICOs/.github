@@ -31,7 +31,7 @@ with postdoctoral researcher <a href="https://ruco13.github.io">Dr. Oscar Ruiz C
 <img src="./images/group.png" alt="Nanophotonics and Optoelectronics Research Group Photo" style="max-width: 100%; height: auto; border: 1px solid #ccc; padding: 5px;">
 
 
-<h2>Tools and Technologies</h2>
+<!-- <h2>Tools and Technologies</h2>
 <table>
 <tr>
 <td>OS</td>
@@ -76,7 +76,7 @@ with postdoctoral researcher <a href="https://ruco13.github.io">Dr. Oscar Ruiz C
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
  </td>
 </tr>
-</table>
+</table> -->
 
 <h2>Acknowledgments</h2>
 
